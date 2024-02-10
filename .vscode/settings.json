@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/a023ef31-a394-4b18-9594-57832528c00e/AppServices/subscriptions/a023ef31-a394-4b18-9594-57832528c00e/resourceGroups/fpl_api/providers/Microsoft.Web/sites/eplapi",
+    "appService.deploySubpath": "."
+}
